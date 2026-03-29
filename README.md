@@ -5,7 +5,7 @@ Welcome to the **Global Hydrology Institute** assistant! This project is a multi
 ## 🔗 Live App
 
 [**Click here to view the live application!**](https://river-tour-guide-653423988024.europe-west1.run.app)
-*(Note: Replace the link above with the actual URL where your app is hosted)*
+
 
 ## 🏗️ Agent Workflow
 
